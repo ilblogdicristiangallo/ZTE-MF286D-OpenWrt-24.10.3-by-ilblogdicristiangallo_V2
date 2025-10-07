@@ -92,7 +92,7 @@ setenv ipaddr 192.168.1.72
   
 set fdt_high 0x85000000
 
-tftp openwrt-24.10.3-ipq40xx-generic-zte_mf286d-initramfs-zImage_by_ilblogdicristiangallo.itb
+tftp openwrt-24.10.3-ipq40xx-generic-zte_mf286d-initramfs-zImage-by_ilblogdicristiangallo-v2.itb
 
 bootm $loadaddr 
 </pre>
